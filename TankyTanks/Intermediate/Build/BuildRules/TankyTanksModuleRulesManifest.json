@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Git\\TankyTank\\TankyTanks\\Source\\TankyTanks\\TankyTanks.Build.cs",
-		"D:\\Git\\TankyTank\\TankyTanks\\Source\\TankyTanks.Target.cs",
-		"D:\\Git\\TankyTank\\TankyTanks\\Source\\TankyTanksEditor.Target.cs"
-	],
-	"EngineVersion": "5.4.4"
-}
