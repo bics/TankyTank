@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TankyTanks.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TankyTanks.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TankyTanksEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TankyTanks">
+      <UniqueIdentifier>{70CD0955-5326-3083-8FB7-83EFABE524D5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TankyTanks\BasePawn.cpp">
+      <Filter>Source\TankyTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankyTanks\BasePawn.h">
+      <Filter>Source\TankyTanks</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TankyTanks\TankyTanks.Build.cs">
+      <Filter>Source\TankyTanks</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TankyTanks\TankyTanks.cpp">
+      <Filter>Source\TankyTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TankyTanks\TankyTanks.h">
+      <Filter>Source\TankyTanks</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

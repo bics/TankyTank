@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\tankytank\\tankytanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tankytanks\\uht\\basepawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\tankytank\\tankytanks\\intermediate\\build\\win64\\x64\\tankytankseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\git\\tankytank\\tankytanks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tankytanks\\definitions.tankytanks.h",
+            "d:\\git\\tankytank\\tankytanks\\source\\tankytanks\\basepawn.h",
+            "d:\\git\\tankytank\\tankytanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tankytanks\\uht\\basepawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
